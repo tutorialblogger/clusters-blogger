@@ -1,5 +1,6 @@
 # CLUSTER EN BLOGGER
-Este es un ejemplo de cómo usar una galería de imágenes responsive para la navegación por clusters en blogger. 
+
+Este es un ejemplo de cómo usar una galería de imágenes responsive para la navegación por clusters en blogger. <a href="https://www.tutorialblogger.org/p/navegacion-clusters-en-blogger.html">Ver ejemplo aquí</a>
 
 # Instalación.
 
